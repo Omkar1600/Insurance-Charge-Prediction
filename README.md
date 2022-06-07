@@ -8,4 +8,4 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html for pa
 https://scikit-learn.org/stable/install.html for sklearn
 https://pypi.org/project/pickle5/ for pickle
 After installing all the dependencies in your terminal run 
-cmd : streamlit run insurance_app.py
+cmd : streamlit run Insurance_app.py
