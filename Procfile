@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run insurance_app.py
+web: sh setup.sh && streamlit run Insurance_app.py
